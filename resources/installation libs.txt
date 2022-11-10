@@ -1,2 +1,0 @@
-pip install mpld3
-seaborn

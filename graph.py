@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 14 12:17:07 2020
 
-@author: lekha
-"""
 import json
 import random
 import webbrowser
